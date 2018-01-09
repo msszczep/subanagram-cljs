@@ -1,6 +1,6 @@
 (defproject sag "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "The Subanagram Generator in Clojurescript"
+  :url "http://www.szcz.org"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
@@ -17,7 +17,7 @@
     :builds [{
        :source-paths ["src-cljs"]
        :compiler {
-         :output-to "resources/public/main.js"
-         :optimizations :whitespace
+         :output-to "resources/public/subanagram.js"
+         :optimizations :advanced
          :pretty-print true}}]}
   )
