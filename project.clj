@@ -18,6 +18,6 @@
        :source-paths ["src-cljs"]
        :compiler {
          :output-to "resources/public/subanagram.js"
-         :optimizations :advanced
+         :optimizations :simple
          :pretty-print true}}]}
   )
