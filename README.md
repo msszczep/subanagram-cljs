@@ -20,4 +20,4 @@ Then visit:
 
 ## License
 
-Copyleft © 2018 by Mitchell Szczpepanczyk 
+Copyleft © 2018 by Mitchell Szczepanczyk 
